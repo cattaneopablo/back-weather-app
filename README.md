@@ -36,6 +36,9 @@ OPENWEATHERMAP_API_KEY=1e7e976727459533c8449ca9639e44e4
 
 # Ruta base del servicio externo que provee el clima
 OPENWEATHERMAP_BASE_URL=https://api.openweathermap.org/data/2.5
+
+# Ruta base
+BASE_PATH=/v1
 ```
 
 Finalmente correr la *API* en modo escucha de manera que tome los cambios al momento de realizarlos en nuestro ambiente de desarrollo.
